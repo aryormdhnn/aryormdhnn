@@ -1,5 +1,5 @@
 
-# Hi, <img src="https://raw.githubusercontent.com/irvanmoses/irvanmoses/main/wave.gif" width="30px" height="30px" />
+# Hi, I'm Aryo Romadhon Vardhana <img src="https://raw.githubusercontent.com/irvanmoses/irvanmoses/main/wave.gif" width="30px" height="30px" />
 
 <!--
 **aryormdhnn/aryormdhnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
