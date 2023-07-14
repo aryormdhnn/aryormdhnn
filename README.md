@@ -25,5 +25,3 @@
 <a href="https://www.instagram.com/aryormdhnn">
     <img height="32" align="left" alt="Instagram" src="icons/instagram.png" />
 </a>
-
-[![Aryo Romadhon GitHub stats](https://github-readme-stats.vercel.app/api?username=aryormdhnn)](https://github.com/anuraghazra/github-readme-stats)
