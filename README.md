@@ -4,7 +4,11 @@
 <!--
 **aryormdhnn/aryormdhnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h3>Hi, I'm Aryo Romadhon Vardhana, a UI/UX designer with 2 years of experience in creating captivating designs. My focus at Figma is on UI/UX design, web/app design, and prototypes. In addition, I'm currently pursuing a major in informatics engineering at the University of Persada Indonesia.</h3>
+<h3>👋 Hi, I'm Aryo Romadhon Vardhana
+🚀 UI/UX Designer | Informatics Engineering Graduate | Passionate About Creating User-Centric Designs
+💻 I specialize in crafting intuitive and engaging user interfaces, with experience in wireframing, prototyping, and developing design systems.
+🎨 Skilled in Figma, Adobe XD, and more, I’m dedicated to enhancing user experiences through thoughtful design and collaboration.
+🌍 Currently working on innovative projects to make technology more accessible and enjoyable for everyone..</h3>
 
 <h3> 💼 Currently working on Odama Studio as UI/UX Designer </h3>
 
